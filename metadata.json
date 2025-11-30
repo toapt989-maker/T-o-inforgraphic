@@ -1,0 +1,5 @@
+{
+  "name": "Infographic GenAI",
+  "description": "Create educational infographics from text or images using Gemini 3 Pro. Generates horizontal, vertical, and coloring-book styles.",
+  "requestFramePermissions": []
+}
